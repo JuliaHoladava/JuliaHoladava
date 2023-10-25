@@ -1,12 +1,10 @@
+### Hi there 👋
+#### I am FrontEnd Developer.
 <div id="header" align="center">
-  ### Hi there 👋
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/julia-holadava/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-### About me:
-I am FrontEnd Developer.
 
 ### Languages and Tools:
 <div>
